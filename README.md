@@ -1,4 +1,5 @@
 About
+
 HiddenUnderGround is a platform connecting consumers with businesses that focuses on improving both the buying and selling experience. 
 
 FastAPI Microservice Application for Image Validation:

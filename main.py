@@ -19,7 +19,7 @@ app.add_middleware(
 )
 
 # OpenAI API Key
-OPENAI_API_KEY = "..."
+OPENAI_API_KEY = os.environ.get("...")
 
 # Create an "uploads" directory if it doesn't exist
 UPLOAD_DIR = "uploads"

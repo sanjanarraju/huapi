@@ -6,6 +6,7 @@ FastAPI Microservice Application for Image Validation:
 Designed and developed a RESTful API using FastAPI to handle image uploads and validation tasks. 
 Ensured error handling and detailed API responses to provide meaningful feedback to users regarding image validation results.
 
+________________________
 
 source venv/bin/activate
 

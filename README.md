@@ -1,3 +1,11 @@
+About
+HiddenUnderGround is a platform connecting consumers with businesses that focuses on improving both the buying and selling experience. 
+
+FastAPI Microservice Application for Image Validation:
+Designed and developed a RESTful API using FastAPI to handle image uploads and validation tasks. 
+Ensured error handling and detailed API responses to provide meaningful feedback to users regarding image validation results.
+
+
 source venv/bin/activate
 
 uvicorn src.main:app

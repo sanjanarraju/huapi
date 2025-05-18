@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-pillow
-requests
+python-multipart
+aiofiles

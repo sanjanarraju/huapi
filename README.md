@@ -9,10 +9,14 @@ Ensured error handling and detailed API responses to provide meaningful feedback
 ## Setup
 1. Create a requirements.txt file
 2. Create a main.py
-2. Create a virtual environment python3 -m venv venv
-4. Activate the virtual environment source venv/bin/activate
-5. Install the dependencies:  pip install -r requirements.txt
-56. Run the Application with UVICORN:  uvicorn src.main:app
+3. Create a virtual environment:
+     python3 -m venv venv
+4. Activate the virtual environment:
+     source venv/bin/activate
+5. Install the dependencies:
+     pip install -r requirements.txt
+6. Run the Application with UVICORN:
+    uvicorn src.main:app
 
 
 <img width="1564" alt="Screenshot 2025-05-18 at 1 46 39 PM" src="https://github.com/user-attachments/assets/25ec9cd3-cc9a-4da8-87c7-bf497802184e" />
